@@ -1,0 +1,10 @@
+Package: Ombre
+Type: Package
+Title: Ombre
+Version: 1.0
+Date: 2014-05-09
+Author: Margaret Lange
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Depends: ggplot2, RJSONIO, RCurl, reshape2

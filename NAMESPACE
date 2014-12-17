@@ -1,0 +1,35 @@
+exportPattern("^[[:alpha:]]+")
+exportMethods(
+    "clearAllPoints",
+    "clearPoint",
+    "getColors",
+    "getFigure",
+    "getHeight",
+    "getNextVal",
+    "getNumColors",
+    "getNumRows",
+    "getNumVals",
+    "getNumValTypes",
+    "getWidth",
+    "incrementVal",
+    "initialize",
+    "print",
+    "selectAllPoints",
+    "setColorPalette",
+    "setFigureFile",
+    "setHeight",
+    "setPoint",
+    "setRow",
+    "setStraightLine",
+    "setVal",
+    "setWidth",
+    "truncateColors" 
+)
+exportClasses(
+    "color.palette",
+     "ombre.pattern",
+     "pattern",
+     "pixel.fig",
+     "staggered.pattern",
+     "stripe.pattern" 
+)
